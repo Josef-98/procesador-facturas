@@ -1,0 +1,74 @@
+{
+    "nombre del cliente": [
+        {
+            "confianza": 0.85,
+            "bbox": [
+                100,
+                150,
+                300,
+                180
+            ],
+            "texto": "MARTA QUINTANA STROHECKER SAN MARCOS"
+        }
+    ],
+    "telefono": [
+        {
+            "confianza": 0.78,
+            "bbox": [
+                100,
+                280,
+                200,
+                300
+            ],
+            "texto": "954.35.71.07"
+        }
+    ],
+    "email": [
+        {
+            "confianza": 0.82,
+            "bbox": [
+                400,
+                280,
+                600,
+                300
+            ],
+            "texto": "martaquin@yahoo.es"
+        }
+    ],
+    "num factura": [
+        {
+            "confianza": 0.9,
+            "bbox": [
+                115,
+                460,
+                180,
+                480
+            ],
+            "texto": "115.395"
+        }
+    ],
+    "fecha factura": [
+        {
+            "confianza": 0.88,
+            "bbox": [
+                240,
+                460,
+                290,
+                480
+            ],
+            "texto": "20/10/23"
+        }
+    ],
+    "total factura": [
+        {
+            "confianza": 0.92,
+            "bbox": [
+                750,
+                1080,
+                820,
+                1100
+            ],
+            "texto": "77,00"
+        }
+    ]
+}
