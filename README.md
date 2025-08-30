@@ -13,6 +13,12 @@ curl -X POST -F "file=@facturaPrueba.jpg" http://localhost:5000/procesar-factura
 # Recomendacion base de datos: 
 con IA pidele que te guie creando una base sqllite con una sola tabla facturas y las columnas que quieren
 
+# Lo q dice david q se necesita para subirlo a la web:
+red neuronal unificada
+Código Red Neuronal Facturas Extra.ipynb
+Código Red Neuronal.ipynb
+best.pt
+
 
 # Simple Flask API
 
