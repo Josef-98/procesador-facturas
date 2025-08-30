@@ -3,6 +3,17 @@
 Aplicacion para procesar facturas de clientes utilizando una red neuronal super guay
 
 
+# comando para iniciar la api
+python app.py
+
+# comandos de prueba de la api
+curl -X GET http://localhost:5000/
+curl -X POST -F "file=@facturaPrueba.jpg" http://localhost:5000/procesar-factura
+
+# Recomendacion base de datos: 
+con IA pidele que te guie creando una base sqllite con una sola tabla facturas y las columnas que quieren
+
+
 # Simple Flask API
 
 A simple Flask API with test endpoints.

@@ -1,2 +1,9 @@
 Flask==2.3.3
 Werkzeug==2.3.7
+ultralytics
+pytesseract
+Pillow
+opencv-python
+numpy<2
+pandas
+jupyter
